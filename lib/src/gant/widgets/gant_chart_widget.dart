@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:gant/gant/data/gant_data.dart';
+part of 'package:gant/src/gant.dart';
 
 class GanttChart extends LeafRenderObjectWidget {
   final List<GanttTask> tasks;

@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-
+part of 'package:gant/src/gant.dart';
 /// Задача диаграммы Ганта
 class GanttTask {
   final String name;
