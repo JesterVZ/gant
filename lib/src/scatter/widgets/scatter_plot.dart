@@ -120,7 +120,7 @@ class ScatterPlotRenderBox extends RenderBox {
 
     // Ось Y
     canvas.drawLine(
-      Offset(margin, margin),
+      const Offset(margin, margin),
       Offset(margin, size.height - margin),
       axisPaint,
     );
