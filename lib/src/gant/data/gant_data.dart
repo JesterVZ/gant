@@ -1,4 +1,4 @@
-part of 'package:gant/src/gant.dart';
+part of 'package:gant/src/gant/gant.dart';
 /// Задача диаграммы Ганта
 class GanttTask {
   final String name;
