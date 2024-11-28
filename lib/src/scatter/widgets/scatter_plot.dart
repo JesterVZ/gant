@@ -1,4 +1,4 @@
-part of 'package:gant/src/scatter/scatter.dart';
+part of 'package:graphaello/src/scatter/scatter.dart';
 
 class ScatterPlot extends LeafRenderObjectWidget {
   final List<ScatterData> data;

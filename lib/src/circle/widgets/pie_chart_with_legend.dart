@@ -1,4 +1,4 @@
-part of 'package:gant/src/circle/circle.dart';
+part of 'package:graphaello/src/circle/circle.dart';
 
 class PieChartWithLegend extends StatefulWidget {
   final List<PieData> data;

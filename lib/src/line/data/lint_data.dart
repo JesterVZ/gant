@@ -1,4 +1,4 @@
-part of 'package:gant/src/line/line.dart';
+part of 'package:graphaello/src/line/line.dart';
 
 class LineData {
   final double x;

@@ -37,7 +37,7 @@ dependencies:
 2. Импортируйте библиотеку:
 
 ```dart
-import 'package:gant/charts.dart';
+import 'package:graphaello/charts.dart';
 ```
 
 

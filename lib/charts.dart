@@ -1,4 +1,4 @@
-export 'package:gant/src/gant/gant.dart';
-export 'package:gant/src/circle/circle.dart';
-export 'package:gant/src/line/line.dart';
-export 'package:gant/src/scatter/scatter.dart';
+export 'package:graphaello/src/gant/gant.dart';
+export 'package:graphaello/src/circle/circle.dart';
+export 'package:graphaello/src/line/line.dart';
+export 'package:graphaello/src/scatter/scatter.dart';

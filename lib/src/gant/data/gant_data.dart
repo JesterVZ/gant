@@ -1,4 +1,4 @@
-part of 'package:gant/src/gant/gant.dart';
+part of 'package:graphaello/src/gant/gant.dart';
 
 /// Задача диаграммы Ганта
 class GanttTask {

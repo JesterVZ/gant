@@ -1,7 +1,7 @@
-name: gant
-description: "Gant graphic"
+name: graphaello
+description: "Graphic library"
 version: 0.0.1
-homepage:
+homepage: https://github.com/JesterVZ/gant
 
 environment:
   sdk: ^3.5.4
