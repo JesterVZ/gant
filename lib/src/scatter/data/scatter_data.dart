@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-
+part of 'package:gant/src/scatter/scatter.dart';
 class ScatterData {
   final double x;
   final double y;
