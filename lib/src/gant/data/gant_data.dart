@@ -1,4 +1,5 @@
 part of 'package:gant/src/gant/gant.dart';
+
 /// Задача диаграммы Ганта
 class GanttTask {
   final String name;
@@ -6,6 +7,10 @@ class GanttTask {
   final Duration duration;
   final Color color;
 
-  GanttTask(this.name, this.start, this.duration, this.color);
+  GanttTask({
+    required this.name,
+    required this.start,
+    required this.duration,
+    required this.color,
+  });
 }
-
