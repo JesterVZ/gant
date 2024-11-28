@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of 'package:gant/src/circle/circle.dart';
 
 class PieData {
   final String name;
