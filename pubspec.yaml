@@ -2,6 +2,8 @@ name: graphaello
 description: "Graphic library"
 version: 0.0.1
 homepage: https://github.com/JesterVZ/gant
+repository: https://github.com/JesterVZ/gant
+
 
 environment:
   sdk: ^3.5.4
